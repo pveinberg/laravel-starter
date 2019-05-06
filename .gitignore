@@ -11,3 +11,7 @@ Homestead.yaml
 Homestead.json
 npm-debug.log
 yarn-error.log
+/.buildpath
+/.project
+/composer.lock
+/restart.sh
