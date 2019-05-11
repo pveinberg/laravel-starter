@@ -1,3 +1,17 @@
+# Laravel Starter
+
+```sh
+$ sudo chmod 777 -R storage/
+
+$ sudo chmod 777 -R bootstrap/
+
+No application encryption key has been specified.
+
+$ php artisan key:generate
+
+```
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
